@@ -10,3 +10,15 @@
     align-items: center;
     justify-content: center;
 }
+
+#like {
+    border: none;
+    background-color: #87CEFA;
+    padding: 5px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#like:hover {
+    background-color: #E3E4FA;
+}
