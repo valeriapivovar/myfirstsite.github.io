@@ -1,0 +1,12 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
